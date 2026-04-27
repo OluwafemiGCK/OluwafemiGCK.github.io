@@ -6,7 +6,8 @@
 
 **Tools Used:** Microsoft Excel()
 
-**Project Description:** This project involved analysing product data of cookies company to identify trends and patterns in sales performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
+**Project Description:** 
+This project involved analysing product data of cookies company to identify trends and patterns in sales performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
 
 Profit by Country and Cookies: Visual representation of profits broken down by each country and type of cookie.
 
