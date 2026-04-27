@@ -75,12 +75,15 @@ Conditional filtering and reporting
 
 ## Project 3
 
-**Title:** [Sales Performance Analysis Dashboard](https://github.com/OluwafemiGCK/OluwafemiGCK.github.io/blob/main/SALES.png)
+**Title:** [Sales & Order Analysis Dashboard](https://github.com/OluwafemiGCK/OluwafemiGCK.github.io/blob/main/ORDER.png)
 
 
 **Tools Used:** Power BI ()
 
 **Project Description:** 
+This Power BI project presents an interactive dashboard designed to analyze sales and order data. It focuses on key metrics such as order trends, shipping performance, and overall sales insights. The report incorporates calculated measures (e.g., time between order and shipment), data cleaning techniques, and duplicate checks to ensure accuracy.
+
+Users can filter data by time (e.g., specific years), explore patterns, and gain actionable insights through visualizations that support data-driven decision-making.
 
 
 **Key findings:** 
@@ -88,4 +91,4 @@ Conditional filtering and reporting
 
 **Dashboard Overview:**
 
-![SALES_DASHBOARD](SALES.png)
+![SALES&ORDER_DASHBOARD](ORDER.png)
