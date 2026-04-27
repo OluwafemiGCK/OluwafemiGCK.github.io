@@ -56,8 +56,6 @@ Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant dat
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval.
 
 Data Combination (JOINS, INNER JOIN, LEFT JOIN): Combined records from two or more tables in the database.
-<img width="974" height="81" alt="image" src="https://github.com/user-attachments/assets/9399924f-05fd-45b1-abeb-5eb7d00553d4" />
-
 
 **Project Description:**
 This project focuses on analyzing a structured dataset using SQL to extract meaningful insights related to records, dates, and data quality. The primary objective is to perform data validation, transformation, and analysis by applying key SQL functions and logical conditions.
@@ -74,3 +72,20 @@ Date-based calculations
 Conditional filtering and reporting
 
 **Technology used:** SQL server
+
+## Project 3
+
+**Title:** [Sales Performance Analysis Dashboard](https://github.com/OluwafemiGCK/OluwafemiGCK.github.io/blob/main/SALES.png)
+
+
+**Tools Used:** Power BI ()
+
+**Project Description:** 
+
+
+**Key findings:** 
+
+
+**Dashboard Overview:**
+
+![SALES_DASHBOARD](SALES.png)
