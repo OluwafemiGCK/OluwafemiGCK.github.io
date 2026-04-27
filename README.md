@@ -38,7 +38,7 @@ This dashboard serves as a crucial tool for the cookies company’s management t
 
 **Dashboard Overview:**
 
-![SALES](SALES.png)
+![SALES_DASHBOARD](SALES.png)
 
 ## Project 2
 **Title:** Employee Data
