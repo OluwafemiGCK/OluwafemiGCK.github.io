@@ -6,7 +6,8 @@
 
 **Tools Used:** Microsoft Excel()
 
-**Project Description:** 
+**Project Description:**
+
 This project involved analysing product data of cookies company to identify trends and patterns in sales performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
 
 Profit by Country and Cookies: Visual representation of profits broken down by each country and type of cookie.
@@ -26,6 +27,7 @@ Country: Focus on specific countries to analyze regional performance.
 Product: Drill down into the performance of individual cookie products.
 
 **Key findings:** 
+
 Regional Profitability: Identified the most profitable countries and highlighted regions where performance could be improved.
 
 Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
@@ -58,6 +60,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 Data Combination (JOINS, INNER JOIN, LEFT JOIN): Combined records from two or more tables in the database.
 
 **Project Description:**
+
 This project focuses on analyzing a structured dataset using SQL to extract meaningful insights related to records, dates, and data quality. The primary objective is to perform data validation, transformation, and analysis by applying key SQL functions and logical conditions.
 
 The project involves calculating important metrics such as the number of days between two date fields (e.g., Order Date and Ship Date), which helps evaluate operational efficiency. It also includes identifying duplicate records across the entire dataset to ensure data integrity and consistency.
@@ -80,13 +83,26 @@ Conditional filtering and reporting
 
 **Tools Used:** Power BI ()
 
-**Project Description:** 
+**Project Description:**
+
 This Power BI project presents an interactive dashboard designed to analyze sales and order data. It focuses on key metrics such as order trends, shipping performance, and overall sales insights. The report incorporates calculated measures (e.g., time between order and shipment), data cleaning techniques, and duplicate checks to ensure accuracy.
 
 Users can filter data by time (e.g., specific years), explore patterns, and gain actionable insights through visualizations that support data-driven decision-making.
 
 
 **Key findings:** 
+
+Sales reached $8.95M with $1.31M profit, indicating a healthy overall profit margin (~14–15%).
+
+Technology is the top-performing category, generating the highest revenue, followed by Furniture and Office Supplies.
+
+Sales show a clear upward trend throughout the year, peaking in November, suggesting strong seasonality (likely driven by year-end demand).
+
+The majority of orders are successfully completed, with returns accounting for less than 1%, indicating efficient order fulfillment and low return rates.
+
+Monthly performance indicates Q4 as the strongest revenue period, highlighting opportunities for targeted campaigns during this timeframe.
+
+Despite high sales volume (130K orders), profit is concentrated in specific categories, suggesting variation in margin efficiency across products.
 
 
 **Dashboard Overview:**
