@@ -10,12 +10,13 @@
 
 This project explores NHS emergency admissions, workforce capacity, and A&E performance across Integrated Care Systems (ICSs) and provider trusts in England. Using Power BI, I integrated multiple NHS datasets to develop an operational intelligence dashboard that enables stakeholders to monitor service demand, assess workforce pressure, evaluate provider performance, and identify geographic trends. The dashboard combines KPI monitoring, trend analysis, benchmarking, and geospatial visualisation to support data-driven decision-making within healthcare services.
 
+
 **Analytics Approach:**
 
 This project followed a structured Business Intelligence workflow:
 
 **Data Acquisition:** 
-- Collected NHS Emergency Admissions, Workforce Statistics, A&E Quality Indicators, and NHS Organisation Reference datasets.
+- Collected and combined NHS Emergency Admissions, Workforce Statistics, A&E Quality Indicators, and NHS Organisation Reference datasets.
 
 **Data Preparation:** 
 - Cleaned and transformed datasets using Power Query.
@@ -28,7 +29,7 @@ This project followed a structured Business Intelligence workflow:
 
 **KPI Development:**
 - Designed operational metrics including Total Admissions, Average Workforce, Admissions per Workforce, and Average A&E        Performance.
-- Developed measures using DAX to support performance monitoring and benchmarking.
+- Developed measures using DAX to support performance monitoring and benchmarking. For example, to evaluate demand,            workforce capacity, operational pressure, and provider performance.
 
 **Dashboard Development:**
 - Created interactive dashboard pages covering Executive Overview, Workforce Pressure Analysis, and A&E Performance Analysis.
