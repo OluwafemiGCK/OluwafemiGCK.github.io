@@ -1,7 +1,7 @@
 # DATA ANALYTICS PORTFOLIO
 ## Project 1
 
-**Title:** [NHS Operational Intelligence Dashboard(https://github.com/OluwafemiGCK/OluwafemiGCK.github.io/blob/main/executive_overview.png)
+**Title:** [NHS Operational Intelligence Dashboard](https://github.com/OluwafemiGCK/OluwafemiGCK.github.io/blob/main/executive_overview.png)
 
 
 **Tools Used:** Power BI ()
